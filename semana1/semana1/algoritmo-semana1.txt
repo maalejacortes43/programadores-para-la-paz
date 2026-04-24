@@ -1,0 +1,7 @@
+1. Buscar la información
+2. Revisar la fuente
+3. Confirmar la noticia
+4. Verificar la fecha
+5. Leer la información completa
+6. Compartir solo si es confiable
+7. No compartir si hay dudas
